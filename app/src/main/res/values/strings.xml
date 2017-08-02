@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QR Scanner</string>
+    <string name="txt_get_it">Get it</string>
+    <string name="txt_result">Focus camera on QR code</string>
+</resources>
